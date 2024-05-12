@@ -7,7 +7,7 @@ A bunch of scripts to do various things.
 ## Features
 
 - Graphic driver installation for Arch Linux
-  - AMD
+  - AM D
   - Intel
   - NVIDIA (Laptop with PRIME)
 - Desktop environment installation for Arch Linux
